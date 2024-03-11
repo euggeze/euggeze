@@ -12,6 +12,4 @@ If you want to connect with me, here are the links:
 
 
 
-I also sometimes play on Codewars. You can send interesting katas 😏:
-
 ![image](https://www.codewars.com/users/eu99eze/badges/small)
