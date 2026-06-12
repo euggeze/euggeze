@@ -8,8 +8,6 @@ If you want to connect with me, here are the links:
 
 ⛓️ LinkedIn: https://www.linkedin.com/in/yauheni-hurynovich-6319a721a/
 
-🎯 hh.ru: https://hh.ru/resume/2edb33f8ff0c4accdd0039ed1f57454d5a376b
-
 
 
 ![image](https://www.codewars.com/users/eu99eze/badges/small)
